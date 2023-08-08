@@ -286,6 +286,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     vertical-align: top;
 }
 
+#eros-list td{
+    vertical-align: top;
+    line-height: 1;
+}
+
 #content-contact {
     /* height: 100vh; */
     margin-top: 12px;
