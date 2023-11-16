@@ -414,21 +414,3 @@ img {
     pointer-events: none;
 }
 
-.video-responsive {
-  position: relative;
-  display: block;
-}
-
-.video-responsive::before {
-  display: block;
-  content: "";
-}
-
-.video-responsive-item {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  border: 0;
-}
-
