@@ -10,6 +10,11 @@ $(function(){
     $("#nav-placeholder").load("/nav.html");
 });
 
+
+$(function(){
+    $("#s-nav-placeholder").load("/s-nav.html");
+});
+
   
  // Accordion 
  function myAccFunc() {
@@ -58,5 +63,4 @@ function w3_close() {
     }  
     
       
-
 
