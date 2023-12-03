@@ -45,9 +45,19 @@
     <!-- Image header -->
     <div class="w3-display-container w3-container">
        
-            <div style="position:relative; width:100%"><img src="/images/jpg/1.png" alt="social_walk" style="width:100%">
-            <span class="font-12" style="position:absolute; bottom:0; right:-103px; vertical-align: bottom; padding-bottom:5.5px; padding-left: 3.5px;">© Social Decanting</span>
-        </div>
+            <div style="position:relative; width:100%">
+                <img src="/images/jpg/1.jpeg" style="width:100%; margin-bottom:5px;">
+                <img src="/images/jpg/2.jpeg" style="width:100%; margin-bottom:5px;">
+                <img src="/images/jpg/3.jpeg" style="width:100%; margin-bottom:5px;">
+                <img src="/images/jpg/4.jpeg" style="width:100%; margin-bottom:5px;">
+                <img src="/images/jpg/5.jpeg" style="width:100%; margin-bottom:5px;">
+                <img src="/images/jpg/6.jpeg" style="width:100%; margin-bottom:5px;">
+                <img src="/images/jpg/7.jpeg" style="width:100%; margin-bottom:5px;">
+      
+
+
+
+            </div>
         <div class="w3-display-topleft w3-text-white" style="padding:24px 48px">
     
         </div>
