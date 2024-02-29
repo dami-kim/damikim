@@ -903,6 +903,10 @@ nav {
     transform: translate(-50%,-50%); */
   }
 
+.test-result {
+    width:61%; 
+}
+
 
 @media screen and (max-width: 480px) {
     .hero-image-desktop {
@@ -920,6 +924,9 @@ nav {
     }
     .inner {
         height: calc( (100vw * 5)/4);
+    }
+    .test-result {
+        width:78%; 
     }
 
 }
