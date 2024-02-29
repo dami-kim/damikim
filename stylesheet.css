@@ -914,8 +914,11 @@ nav {
 
 
 @media screen and (max-width: 480px) {
-    .hero-image-desktop {
+/*     .hero-image-desktop {
         display: none;
+    } */
+    .hero-desktop {
+        background-position: center;
     }
     .hero-image-mobile {
         display: block;
