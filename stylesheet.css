@@ -678,6 +678,7 @@ iframe {
 
 .studio {
     color:black;
+    overflow-x: hidden;
 }
 
 .studio-main {
