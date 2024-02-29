@@ -918,7 +918,7 @@ nav {
         display: none;
     } */
     .hero-desktop {
-        background-position: center;
+        background-position: 40% 50%;
     }
     .hero-image-mobile {
         display: block;
