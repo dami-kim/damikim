@@ -931,7 +931,7 @@ nav {
         height: calc( (100vw * 5)/4);
     }
     .layer {
-        background-color: rgba(71, 71, 71, 0.104);
+        background-color: rgba(71, 71, 71, 0.096);
     }
     .test-result {
         width:78%; 
