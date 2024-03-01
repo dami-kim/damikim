@@ -24,7 +24,7 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 [type=search]::-webkit-search-decoration{-webkit-appearance:none}
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 /* End extract */
-html,body{font-size:13px;line-height:1;overflow-x:hidden !important;max-width:100% !important;}html{overflow-x:hidden}
+html,body{font-size:13px;line-height:1;overflow-x:hidden!important;max-width:100%!important;}html{overflow-x:hidden}
 h1{font-size:36px}h2{font-size:30px}h3{font-size:18px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
 .w3-serif{font-family:serif}.w3-sans-serif{font-family:sans-serif}.w3-cursive{font-family:cursive}.w3-monospace{font-family:monospace}
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0;color: #444444;}.w3-wide{letter-spacing:0px;color: #444444;}
@@ -517,8 +517,8 @@ img {
 .scale-33 {
     width:33.3%;
 }
-.scale-90 {
-    width:90%;
+.scale-94 {
+    width:94%;
 }
 .flex-adjust {
     display:flex;
@@ -593,7 +593,7 @@ img {
     .scale-85 {
         width:100%;
     }
-    .scale-90 {
+    .scale-94 {
         width:100%;
     }
     .line-height-11 {
@@ -883,7 +883,7 @@ nav {
     justify-content: center;
     /* height: 75vh; */
     margin: 1em auto;
-    /* width: 90%; */
+    /* width: 94%; */
   }
   video {
     display: block;
@@ -912,16 +912,20 @@ nav {
     width:61%; 
 }
 
+.hero-desktop {
+    background-position: left;
+}
+
 
 @media screen and (max-width: 480px) {
-/*     .hero-image-desktop {
-        display: none;
-    } */
+    .hero-image-desktop {
+        /* display: none; */
+    }
     .hero-desktop {
         background-position: 40% 50%;
     }
     .hero-image-mobile {
-        display: block;
+        /* display: block; */
         width:100%;
     }
     .outer {
@@ -934,10 +938,10 @@ nav {
         height: calc( (100vw * 5)/4);
     }
     .layer {
-        background-color: rgba(71, 71, 71, 0.096);
+        /* background-color: rgba(53, 53, 53, 0.137); */
     }
     .test-result {
-        width:78%; 
+        width:82%; 
     }
 
 }
@@ -948,13 +952,13 @@ nav {
 		width: 100%;
     }
     .studio-main p{
-        width:90%;
+        width:94%;
     }
     .studio-main h2{
-        width:90%;
+        width:94%;
     }
     .studio-main h3{
-        width:90%;
+        width:94%;
     }
     .component-2 {
         width: 100%;
