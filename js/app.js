@@ -98,8 +98,8 @@ function videoScroll() {
 
 }
 
-<script>
-  var video = document.getElementById('myVideo');
+
+  var video = document.getElementsByClassName('myVideo')[0];
   video.autoplay = true;
   video.load();
-</script>
+
