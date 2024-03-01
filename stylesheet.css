@@ -693,8 +693,8 @@ iframe {
     border-right: 0.5px solid rgb(118, 118, 118); */
     border-left: 0.5px solid rgb(129, 129, 129);
     border-right: 0.5px solid rgb(129, 129, 129);
-    /* width: 60.2%; */
-    width: calc( (100% * 2)/3);
+    width: 60.2%;
+/*     width: calc( (100% * 2)/3); */
     margin:auto;
     color:black;
 }
@@ -716,7 +716,7 @@ iframe {
     font-style: normal;
     font-size: 35px;
     color:black;
-    width: 75%;
+    width: 77%;
     margin-left:auto;
     margin-right:auto;
 }
@@ -728,7 +728,7 @@ iframe {
     font-style: normal;
     font-size: 18px;
     color:black;
-    width: 75%;
+    width: 77%;
     margin-left:auto;
     margin-right:auto;
 }
@@ -739,7 +739,7 @@ iframe {
 
 .studio-main p{
     margin-bottom: 8px;
-    width: 75%;
+    width: 77%;
     margin-left:auto;
     margin-right:auto;
     color:black;
