@@ -97,3 +97,9 @@ function videoScroll() {
   }
 
 }
+
+<script>
+  var video = document.getElementById('myVideo');
+  video.autoplay = true;
+  video.load();
+</script>
